@@ -17,3 +17,5 @@ Frontend website and all related yoga site
 ![Screenshot (32)](https://user-images.githubusercontent.com/43091850/159706565-df4e639f-ed5b-4ff4-b2b0-25c2ac066b0e.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/43091850/159706571-832d49a7-d83d-426b-82f9-e56e565ac4d7.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/43091850/159706575-ac633f68-4d6b-4949-a9d8-03c5f3c0484b.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/43091850/159707754-c289c789-c1f5-40c4-820f-d230fe36df4b.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/43091850/159707769-749c7ccc-ba5a-42d6-9548-44ba99fea1c0.png)
